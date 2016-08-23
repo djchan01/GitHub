@@ -1,0 +1,31 @@
+#node section
+node 1 1 0 2 0
+node 2 1 0 2 4
+node 3 1 0 2 8
+node 4 1 4 2 4
+node 5 1 8 2 0
+node 6 1 8 2 4
+node 7 1 8 2 12
+node 8 1 12 2 0
+node 9 1 12 2 4
+node 10 1 16 2 4
+node 11 1 12 2 12
+node 12 1 16 2 12
+node 13 1 12 2 16
+node 14 1 16 2 16
+
+# connect section
+connect 1 2
+connect 2 3
+connect 2 4
+connect 4 6 
+connect 5 6
+connect 6 7
+connect 6 9
+connect 8 9
+connect 9 10
+connect 9 11
+connect 11 12
+connect 12 10
+connect 11 13
+connect 12 14

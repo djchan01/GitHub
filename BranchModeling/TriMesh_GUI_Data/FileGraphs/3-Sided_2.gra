@@ -1,0 +1,10 @@
+node 1 0.5  3 0 0
+node 2 1.0  0 3 0
+node 3 0.5  0 0 3
+node 4 1.0  0 0 0
+
+//
+connect 1 4
+connect 2 4
+connect 3 4
+

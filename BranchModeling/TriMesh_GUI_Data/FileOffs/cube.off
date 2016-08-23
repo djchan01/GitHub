@@ -1,0 +1,46 @@
+# cube4.off - cube without vertices welded
+OFF
+24 12 24
+# Front verices
+-1 -1 1		# v0
+1 -1 1		# v1
+1 1 1		# v2
+-1 1 1		# v3
+# Back vertice 
+1 -1 -1		# v4
+-1 -1 -1	# v5
+-1 1 -1		# v6
+1 1 -1		# v7
+# Right vertices
+1 -1 1		# v8
+1 -1 -1		# v9
+1 1 -1		# v10
+1 1 1		# v11
+# Left vertices
+-1 -1 -1	# v12
+-1 -1 1		# v13
+-1 1 1		# v14
+-1 1 -1		# v15
+# Top vertices
+-1 1 1		# v16
+1 1 1		# v17
+1 1 -1		# v18
+-1 1 -1		# v19
+# Bottom verices
+-1 -1 -1	# v20
+1 -1 -1		# v21
+1 -1 1		# v22
+-1 -1 1		# v23
+# Faces
+3 0 1 2		# Front
+3 0 2 3
+3 4 5 6 	# Back
+3 4 6 7
+3 8 9 10	# Right 
+3 8 10 11
+3 12 13 14 	# Left
+3 12 14 15
+3 16 17 18	# Top
+3 16 18 19
+3 20 21 22	# Bottom
+3 20 22 23

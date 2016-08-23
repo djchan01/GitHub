@@ -1,0 +1,161 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX TITAN Black (ID=0x100c)
+    Vendor:   NVIDIA
+    VRAM:     6075 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\meteorTools.dll (this message is harmless)
+Loading D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\meteorTools.dll into Unity Child Domain
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\VacuumShaders.TheAmazingWireframeShader.dll (this message is harmless)
+Loading D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\VacuumShaders.TheAmazingWireframeShader.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1080 60Hz; virtual: 2560x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: Shader Unsupported: 'Hidden/VacuumShaders/The Amazing Wireframe/Mobile/Vertex Lit' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VacuumShaders/The Amazing Wireframe/Mobile/Vertex Lit' - Setting to default shader.
+UnloadTime: 0.613804 ms
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\Accessibility.dll (this message is harmless)
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libc
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/.\libc
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libc
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libc
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/.\libc
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libc
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libX11
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/.\libX11
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libX11
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libX11
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/.\libX11
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libX11
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libX11
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/.\libX11
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/libX11
+Platform assembly: D:\Unity3d\Unity_Windows_App\BranchModeling\TriMesh_GUI_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/.\/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/.\lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/Unity3d/Unity_Windows_App/BranchModeling/TriMesh_GUI_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+0.1414214
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+0.141467
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 152
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 152
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Before face count = 248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OFF Simplify method: Alfter face count = 152
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bc4 -> priority: 1 
+  Thread -> id: c38 -> priority: 1 

@@ -1,0 +1,13 @@
+node 1 0.2 -4 -0.5 0
+#node 2 0.2 -1 0 0
+#node 3 0.2 1 0 0
+node 4 0.2 4 -0.5 0
+
+
+branch 1 1 0 0  0
+1
+4
+
+#connect 1 2
+#connect 3 4 
+

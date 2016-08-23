@@ -1,0 +1,17 @@
+node 0 0.2 0 1 0
+node 1 0.2 0 0.809016 0.587786
+node 2 0.2 0 0.309014 0.951057
+node 3 0.2 0 -0.309021 0.951055
+node 4 0.2 0 -0.80902 0.587781
+node 5 0.2 0 -1 0
+node 6 0.2 0 -0.809012 -0.587792
+node 7 0.2 0 -0.309007 -0.95106
+
+connect 0 1
+connect 1 2
+connect 2 3
+connect 3 4
+connect 4 5
+connect 5 6
+connect 6 7
+connect 7 0

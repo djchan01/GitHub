@@ -1,0 +1,18 @@
+node 1 0.3  0  3 0
+node 2 0.3  2.12132 2.12132 0
+node 3 0.3  2.12132 -2.12132 0
+node 4 0.3  0 -3 0
+node 5 0.3  -2.12132 -2.12132 0
+node 6 0.3  -2.12132 2.12132 0
+node 7 0.3 -3 0 0
+node 8 0.3 3 0 0
+node 9 1.0 0 0 0
+
+connect 1 9
+connect 2 9
+connect 3 9
+connect 4 9
+connect 5 9
+connect 6 9
+connect 7 9
+connect 8 9
